@@ -35,21 +35,3 @@ They can search a book by title, genre or author name.
     |   └── .gitignore
     |   └── .env
     |   └── requirements.txt
-    |
-    ├── Using NoSQL - MongoDB
-    |   └── static
-    |       └── bootstrap
-    |       └── css
-    |       └── images
-    |       └── js 
-    |   └── templates                   # html files 
-    |   └── utils                       # code files
-    |   └── app.py              
-    |   └── mongoqueries.txt      # queries and triggers code
-    |   └── .gitignore
-    |   └── .env
-    |   └── Procfile              # tells Heroku how to startup your application on it's server
-    |   └── requirements.txt
-    |
-    ├── LICENSE
-    └── README.md

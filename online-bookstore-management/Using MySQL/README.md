@@ -15,8 +15,6 @@
     3. pip install MySQL-python
     4. pip install mysql-connector
 
-## Website Preview
-[Click here](https://github.com/Geervanireddy16/online-bookstore-management/blob/main/README.md)
 
 ## Project Structure
     .
